@@ -1,5 +1,7 @@
 **Machine Learning with Flight Fare Prediction Dataset Classification and Regression Model**
 ----------------------------------
+![Uploading image.png…]()
+
 
 **Veri Seti:**
 Bu veri seti, 1993'ten 2024'e kadar Amerika Birleşik Devletleri içindeki havayolu uçuş rotaları, tarifeler ve yolcu hacimlerine dair ayrıntılı bilgileri sunmaktadır. Veri seti, havaalanları arasındaki mesafeler, yolcu sayıları ve farklı havayolu taşıyıcıları tarafından sunulan tarifeleri içeren ölçümleri kapsamaktadır. Üç on yıl boyunca hava seyahati, fiyatlandırma ve taşıyıcı rekabetindeki trendleri analiz etmek için kapsamlı bir kaynak sağlar.
