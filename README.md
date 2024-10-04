@@ -1,6 +1,7 @@
 **Machine Learning with Flight Fare Prediction Dataset Classification and Regression Model**
 ----------------------------------
-![Uploading image.png…]()
+![image](https://github.com/user-attachments/assets/c82f69bc-2481-4085-a18f-192d22ab8e33)
+
 
 
 **Veri Seti:**
